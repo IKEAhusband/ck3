@@ -1,0 +1,17 @@
+The county view wasn't to my taste (no icons for stats, holding view getting busy especially the modifiers grid) so I made my own version.
+
+[H2]Features[/H2]
+• Different look for the county view and building interface
+• County and Holding stats shown with icons instead of text labels
+• County Modifiers can be expanded
+• Larger Barony tabs
+• Holding information split in tabs
+• Can display a lot more building slots
+• Compact mode for the building construction UI
+• Comparison Mode for the build/upgrade building UI
+
+[H2]Compatibility[/H2]
+• Only edits the gui\window_county_view.gui file
+• For all compatible mods, put this mod [b]below[/b] them in the load order
+• Fully compatible with my [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3206891770]Culture & Faith Granularity[/url] mod 
+• Compatible with the mods specified in the [url=https://steamcommunity.com/workshop/filedetails/discussion/3336466278/4842022700074310320/]Compatible Mods Thread[/url]
